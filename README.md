@@ -229,7 +229,6 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 ## Contacto
 
 - **Equipo**: somosnlp-hackathon-2025
-- **Repository**: [GitHub](https://github.com/somosnlp-hackathon-2025)
 - **Modelos**: [Hugging Face](https://huggingface.co/somosnlp-hackathon-2025)
 
 ---
